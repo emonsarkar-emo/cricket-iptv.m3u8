@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:0,WorldCup Live 
+#EXTGRP:Cricket
+http://103.106.243.163:8989/gazi-tv/index.m3u8
+#EXTINF:0,WorldCup Live 2
+#EXTGRP:Cricket
+http://103.106.243.163:8989/tsports/index.m3u8
+#EXTGRP:Cricket
+https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
+#EXTINF:0,HOTSTAR HINDI
+#EXTGRP:Cricket
+http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+#EXTINF:0,Austro Cricket
+#EXTGRP:Cricket
+http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
+#EXTINF:0,GTV 3 HD
+#EXTGRP:Cricket
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:0,GTV 2
+#EXTGRP:Cricket
+http://103.40.226.94:8080/hls/channel_1.m3u8
+#EXTINF:0,WorldCup Live 4
+#EXTGRP:Cricket
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1636315525&md5=LGXUddrL-1ZXrnBTFqwFZA&user=49729ec489674ef3912b6d7cd0822923
+#EXTINF:0,WorldCup Live 5
+#EXTGRP:Cricket
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1636315446&md5=YgjFXbnTjjoEgMtBA-NrDg&user=49729ec489674ef3912b6d7cd0822923
+#EXTINF:0,WorldCup Live 3
+#EXTGRP:Cricket
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1636315446&md5=YgjFXbnTjjoEgMtBA-NrDg&user=49729ec489674ef3912b6d7cd0822923
